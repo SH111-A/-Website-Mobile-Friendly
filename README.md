@@ -1,4 +1,5 @@
 Features:
+
 1.Desktop layout with horizontal navigation aligned to the right
 
 2.Two-column content layout with text and images side-by-side on wide screens
