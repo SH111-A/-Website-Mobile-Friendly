@@ -1,27 +1,27 @@
-Features
-Desktop layout with horizontal navigation aligned to the right
+Features:
+1.Desktop layout with horizontal navigation aligned to the right
 
-Two-column content layout with text and images side-by-side on wide screens
+2.Two-column content layout with text and images side-by-side on wide screens
 
-Mobile-friendly design with stacked navigation and content columns
+3.Mobile-friendly design with stacked navigation and content columns
 
-Font size adjustments for readability on small screens
+4.Font size adjustments for readability on small screens
 
-Responsive images that scale within their containers
+5.Responsive images that scale within their containers
 
-Prevents horizontal overflow and scrolling issues
+6.Prevents horizontal overflow and scrolling issues
 
 How to Use
-Open index.html in any modern web browser.
+1.Open index.html in any modern web browser.
 
-Resize the browser window or use developer tools to simulate different device widths.
+2.Resize the browser window or use developer tools to simulate different device widths.
 
-Observe the layout adjusting for desktop and mobile views.
+3.Observe the layout adjusting for desktop and mobile views.
 
 Technologies
-HTML5
+#HTML5
 
-CSS3 (Flexbox and Media Queries)
+#CSS3 (Flexbox and Media Queries)
 
 Some images
 When you open with liveServer
