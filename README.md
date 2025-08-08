@@ -31,4 +31,4 @@
 ![Desktop Screenshot](https://github.com/user-attachments/assets/176449fd-046f-455c-b7b1-fbd4884517fc Device Emulation (Select Device Example)  
 ![Device Dropdown](https://github.com/user-attachments/assets/6d129e39-31a6-45dc-a9e2-f9466ce Layout Example 1  
 ![Mobile Layout 1](https://github.com/user-attachments/assets/564cbe Mobile Layout Example 2 - Rotated Screen (Landscape Mode)  
-![Mobile Landscape](https://github.com/user-attachments/assets/c16cccdd-beee-438f-bdc7-7c6b9b3b want, I can assist you in formatting this as Markdown for your README.md or as HTML for your documentation page. Let me know!
+![Mobile Landscape](https://github.com/user-attachments/assets/c16cccdd-beee-438f-bdc7-7c6b9b3b 
