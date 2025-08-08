@@ -28,7 +28,15 @@
 ## Screenshots (Using Live Server & Chrome DevTools)
 
 ### Desktop View  
-![Desktop Screenshot](https://github.com/user-attachments/assets/176449fd-046f-455c-b7b1-fbd4884517fc Device Emulation (Select Device Example)  
-![Device Dropdown](https://github.com/user-attachments/assets/6d129e39-31a6-45dc-a9e2-f9466ce Layout Example 1  
-![Mobile Layout 1](https://github.com/user-attachments/assets/564cbe Mobile Layout Example 2 - Rotated Screen (Landscape Mode)  
-![Mobile Landscape](https://github.com/user-attachments/assets/c16cccdd-beee-438f-bdc7-7c6b9b3b 
+Open Using Live Server
+<img width="1920" height="1080" alt="Screenshot 2025-08-07 222023" src="https://github.com/user-attachments/assets/3e7dfe28-958a-4a6c-b037-405e2914ecb7" />
+Device Emulation (Select Device Example) 
+<img width="1920" height="1080" alt="Screenshot 2025-08-07 222113" src="https://github.com/user-attachments/assets/b2f347dc-2abb-4bab-a184-49d2ea6636eb" />
+Layout Example 1 
+<img width="1920" height="1080" alt="Screenshot 2025-08-07 222211" src="https://github.com/user-attachments/assets/b89af625-0326-4ea2-a63b-cd2d8c817a85" />
+Rotated Screen (Landscape Mode) 
+<img width="1920" height="1080" alt="Screenshot 2025-08-07 222419" src="https://github.com/user-attachments/assets/02895983-ee82-4f24-b3ab-9cd9d77ae131" />
+
+ 
+ 
+
