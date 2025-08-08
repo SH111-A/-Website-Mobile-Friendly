@@ -1,0 +1,104 @@
+
+
+/* Base styles for desktop */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background: #222;
+  padding: 20px 0;
+}
+
+nav ul {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  margin: 0 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+
+.container {
+  width: 1200px;
+  margin: 30px auto;
+}
+
+.row {
+  display: flex;
+  gap: 20px;
+}
+
+.column {
+  flex: 1;
+  background: #f2f2f2;
+  padding: 20px;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+  display: block;
+}
+
+/* ------------------
+   Responsive Styles
+   ------------------ */
+@media (max-width: 768px) {
+  .container {
+    width: 100%;
+    padding: 0 10px;
+    margin: 0;
+  }
+
+  .row {
+    flex-direction: column;
+    gap: 15px; /* vertical spacing on stacked columns */
+  }
+
+  nav ul {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 10px;
+  }
+
+  nav li {
+    margin: 10px 0;
+  }
+
+  nav a {
+    font-size: 1em;
+    padding: 10px 0;
+    display: inline-block;
+  }
+
+  /* Keep image width same as desktop (50%) */
+  img {
+    max-width: 50%;
+    height: auto;
+  }
+
+  body,
+  html {
+    overflow-x: hidden;
+  }
+
+  h2 {
+    font-size: 1.3em;
+  }
+
+  p {
+    font-size: 1em;
+  }
+}
